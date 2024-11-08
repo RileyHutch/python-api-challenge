@@ -14,3 +14,4 @@ VacationPy:
 geoviews_demo_solution used
 restaurants_solution used
 used chatgpt to help structure funtion for filtered_cities_df
+Worked with team member Andrew J to update my map and paramaters section so that it pulled hotels properly
